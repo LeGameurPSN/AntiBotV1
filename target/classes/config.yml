@@ -1,9 +1,0 @@
-# Nom du serveur attendu comme réponse à la question de vérification
-# (la comparaison ignore les majuscules/minuscules)
-server-name: "EvoluMC"
-
-# Nombre de tentatives ratées avant expulsion
-max-attempts: 5
-
-# Gamemode donné au joueur une fois la vérification terminée
-default-gamemode: "SURVIVAL"
