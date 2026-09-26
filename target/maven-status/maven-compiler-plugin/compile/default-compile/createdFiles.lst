@@ -1,3 +1,8 @@
-com\example\checkcity\CheckCity.class
-com\example\checkcity\CheckCity$IntelCallback.class
-com\example\checkcity\CheckCity$IpIntel.class
+fr\evolumc\antibotgui\VerificationListener.class
+fr\evolumc\antibotgui\VerificationListener$1.class
+fr\evolumc\antibotgui\VerificationSession$Step.class
+fr\evolumc\antibotgui\VerificationListener$3.class
+fr\evolumc\antibotgui\ValidatedIpStore.class
+fr\evolumc\antibotgui\AntiBotGuiPlugin.class
+fr\evolumc\antibotgui\VerificationListener$2.class
+fr\evolumc\antibotgui\VerificationSession.class
